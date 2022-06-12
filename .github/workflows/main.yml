@@ -38,6 +38,3 @@ jobs:
             djonatar/kube-news:latest
             djonatar/kube-news:${{github.run_number}}
 
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
